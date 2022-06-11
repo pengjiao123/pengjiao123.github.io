@@ -1,0 +1,106 @@
+---
+layout:     post
+title:      香港学校相关信息
+subtitle:   香港学校
+date:       2022-06-11
+author:     BY
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - iOS
+---
+1 香港科技大学广州
+
+计算机视觉/机器学习  
+
+陈颖聪 https://www.yingcong.me/  没有说 不过可以试试 目前17篇顶会顶刊！！！比较年轻 做计算机视觉  微软奖学金提名奖 很强
+
+刘浩  https://raymondhliu.github.io/  可以招硕士 主要做数据挖掘 很强 福布斯中国发布2021年度30 Under 30 入选科学和医疗健康领域30 Under 30榜单。
+
+https://mp.weixin.qq.com/s/6qLlZVLtVmxudbuwqCHc6g
+
+王林 https://addisonwang2013.github.io/vlislab/ 似乎可以招硕士 但是需要发简历+研究计划 计算机视觉 年轻
+
+[https://mp.weixin.qq.com/s/RqpfhkonOQuyPU9Y1kDNEw]
+
+王炜 http://home.cse.ust.hk/~weiwcs/   似乎可以招硕士？？  之前在澳大利亚已经是正教授 相对年纪较大了  研究数据库 算法 深度学习
+
+https://mp.weixin.qq.com/s/Xp961QAyTW68ho4balZpyw
+
+时空数据管理 机器学习 分布式计算 
+
+李雷 https://sites.google.com/view/leili  有硕士？哈工大本硕 澳大利亚博士 论文还行
+
+
+宋阳秋 https://www.cse.ust.hk/~yqsong/  清华自动化本科 博士 很强  他网站上写有广州校区的学生 
+
+
+GZ Campus:
+
+He Cao (Since Fall 2020, Co-supervised with Prof. Yuan Yao)
+
+Yiran Cheng (Since Fall 2020, Co-supervised with Prof. Qiong Luo)
+
+Amanda So (Since Fall 2020, Co-supervised with Prof. Yangguang Huang)
+
+Ying Su (Since Fall 2020, Co-supervised with Prof. Tong Zhang)
+
+Yue Guo (Since Fall 2020, Co-supervised with Prof. Yi Yang)
+
+
+
+其他候选（暂时没说硕士 也可能招）
+
+朱磊 https://sites.google.com/site/indexlzhu/home  没有提到硕士 论文不错 香港中文大学计算机博士 剑桥大学博后
+
+李佳 https://sites.google.com/view/lijia  没有提到硕士 论文不错 香港中文大学硕士博士 北邮本科
+
+唐靖 https://sites.google.com/view/jtang 没有提到硕士 论文不错 中科大本科 南洋理工大学博士
+
+文泽忆 https://zeyiwen.github.io/ 没有提到硕士 论文不错 
+
+
+2 还可以的港中文深圳老师 理工学院
+
+计算机视觉的   
+
+陈冠英 2021年博士毕业 计算机视觉 中山大学本科 香港大学博士 也比较强  
+
+https://guanyingc.github.io/
+               
+韩晓光 助理教授 计算机工程, 电子工程 南航本科浙大硕士香港大学博士 计算机视觉，计算机图形学， 人机交互，医学图像处理，机器学习 这个非常牛
+
+https://mypage.cuhk.edu.cn/academics/hanxiaoguang/
+             
+李镇 助理教授 计算机工程, 电子工程 中山大学本硕香港大学博士 深度学习，蛋白质结构预测，计算机 视觉 还不错 
+
+https://mypage.cuhk.edu.cn/academics/lizhen/
+
+             
+黄锐 副教授 计算机工程 电子工程 北大本科中科院硕士罗格斯大学博士 计算机视觉；图像处理；模式 识别；机器学习 也还可以
+
+https://myweb.cuhk.edu.cn/ruihuang
+             
+
+机器人方向  
+
+钱辉环 助理教授 计算机工程, 电子工程 中科大本科港中文博士 机器人、智能系统 在机器人方向很强   
+
+https://sse.cuhk.edu.cn/faculty/qianhuihuan
+           
+林天麟 助理教授 计算机工程, 电子工程 香港中文大学本科博士 现场机器人，人机交互，智能控制 机器人也比较强 
+
+https://sse.cuhk.edu.cn/faculty/tinlunlam
+
+微电子电路设计方向 
+
+刘寻 助理教授 电子工程 浙大本科香港科技大学博士 电路与系统设计 发过芯片设计两大顶级会议 很 强
+
+https://sse.cuhk.edu.cn/faculty/liuxun
+
+年纪较大的教授或者院士 
+
+崔曙光 教授 计算机工程, 电子工程 北邮本科麦克马斯特大学硕士斯坦福大学博士 数据分析和信息系 统 很强 
+
+徐扬生 校长讲座教授 浙大本硕美国宾夕法尼亚大学博士 机器人；智能系统与控制；设计与制造；空间 机器人、服务机器人、穿戴式人机界面、智慧混合动力汽车等 院士
+
